@@ -2,7 +2,9 @@
 Stanford EE367 / CS448I: Computational Imaging course project
 
 Author: Itamar Terem, 2022 
+
 Contact Information: iterem@stanford.edu
+
 Title: Denoising for amplified Magnetic Resonance Imaging (aMRI)
 
 This repository contain the source codes for the project titiled: "Denoising for amplified Magnetic Resonance Imaging (aMRI)", where different denoising algorithms were evaluated for th ability to improve the results of motion magnification in 'cine' MRI. 
