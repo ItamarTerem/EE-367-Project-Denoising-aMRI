@@ -7,7 +7,7 @@ Contact Information: iterem@stanford.edu
 
 Title: Denoising for amplified Magnetic Resonance Imaging (aMRI)
 
-This repository contain the source codes for the project titiled: "Denoising for amplified Magnetic Resonance Imaging (aMRI)", where different denoising algorithms were evaluated for th ability to improve the results of motion magnification in 'cine' MRI. 
+This repository contains the source codes for the project titiled: "Denoising for amplified Magnetic Resonance Imaging (aMRI)", where different denoising algorithms were evaluated for th ability to improve the results of motion magnification in 'cine' MRI. 
 
 The repository contain the main following files:
 1. main.m - The main code will run and generate the results of the report. 
